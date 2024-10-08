@@ -1,6 +1,6 @@
 ## AJS_ArrayBuffer-ArrayBuffer
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/plde2kwtwpi8h12c?svg=true)](https://ci.appveyor.com/project/CoolPaK/ajs-arraybuffer-arraybuffer)
 ---
 # Домашнее задание к лекции «`ArrayBuffer`»
 
